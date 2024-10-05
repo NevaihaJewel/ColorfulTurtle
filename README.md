@@ -21,7 +21,7 @@ This is an interactive Python program that demonstrates the power of the Turtle 
 
 <p align="center">
 The Program: The turtle is positioned by the Turtle graphics library with simple graphical interface<br/>
-<img src="https://i.imgur.com/bWD3vjE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lkLhpxH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The Program: The movement, randomization, and color logic is placed for the turtle<br/>
