@@ -41,9 +41,9 @@ The Results: The program ends in full circle is the turtle leading the colors<br
 <br />
 <br />
 The Results: This video displays the dynamic nature of the program<br/>
-<img src="https://i.imgur.com/wD2dp79.mp4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-  
+
+https://github.com/user-attachments/assets/32855c08-1a9c-4111-8745-a0d9148a2df5
+
 </p>
 
 <!--
